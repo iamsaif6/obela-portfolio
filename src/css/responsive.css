@@ -1,0 +1,279 @@
+/* Large Devices */
+/* ########################
+########################### */
+
+@media only screen and (max-width:1200px){
+
+
+   .header-text-wrapper h1{
+        font-size: 40px;
+   }
+
+   .about-text-wrapper{
+        padding-top: 20px;
+   }
+
+   .single-grid-item{
+        height: 400px;
+   }
+
+   .portfolio-filter button{
+        padding: 12px 30px;
+   }
+
+   .single-member-hover{
+        padding-left: 15px;
+        padding-right: 15px;
+   }
+
+   .single-blog-text{
+        padding: 20px;
+   }
+
+   .single-blog-text h2{
+        margin-top: 15px;
+        margin-bottom: 20px;
+        font-size: 15px;
+   }
+}
+
+
+/* Tablet Devices */
+/* ########################
+########################### */
+
+@media only screen and (max-width:991px){
+
+
+     .main-nav{
+          display: none;
+          }
+
+     .menu-trigger{
+          display: block;
+     }
+
+     .header-skill a{
+          font-size: 12px;
+     }
+
+     .section-title{
+          margin-bottom: 45px;
+     }
+     .about-identity{
+          margin: 10px 0;
+     }
+
+     .about-img-wrapper{
+          margin-right: 0;
+          margin-top: 30px;
+     }
+     .single-skill-item{
+          padding: 25px;
+     }
+     .single-servies-item{
+          padding: 40px 15px;
+     }
+
+     .about-identity .span_4_of_12,.counter-section .span_1_of_4,.team-section .span_1_of_4{
+          width: 49%;
+     }
+
+     .counter-section .span_1_of_4:nth-child(3),.team-section .span_1_of_4:nth-child(3){
+          margin-left: 0;
+     }
+
+     .counter-section{
+          padding: 60px 0;
+     }
+
+     .single-counter-item{
+          margin: 15px 70px;
+     }
+
+     .portfolio-filter button {
+          padding: 10px 20px;
+     }
+
+     .single-grid-item {
+          height: 300px;
+     }
+     .portfolio-filter button{
+          margin-right: 10px;
+     }
+
+     .single-member-hover {
+          padding: 25px;
+          padding-right: 40px;
+          padding-left: 30px;
+     }
+
+     .single-member-wrap{
+          margin-bottom: 15px;
+     }
+     .footer-contact a:nth-child(2){
+          margin: 0 34px;
+     }
+
+
+  }
+
+
+
+/* Mediam Devices */
+/* ########################
+########################### */
+
+@media only screen and (max-width:768px){
+
+
+     .header-skill a{
+          display: block;
+          margin-bottom: 15px;
+     }
+   
+     .about-section{
+          padding: 75px 0;
+     }
+   
+     .about-section .span_4_of_12,.about-section .span_7_of_12{
+          width: 100%;
+     }
+   
+     .about-img-wrapper{
+        max-width: 350px;
+        margin: 0 auto; 
+        margin-bottom: 20px;
+     }
+     .about-identity .span_4_of_12{
+          width: 100%;
+          margin: 0;
+
+     }
+     .about-identity{
+          margin-bottom: 20px;
+     }
+
+     #skill-sec .span_1_of_3,.services-section .span_1_of_3,.blog-section .span_1_of_3 {
+          width: 100%;
+          margin: 0;
+          margin-bottom: 20px;
+     }
+
+     .description{
+          font-size: 14px;
+     }
+
+     .section-padding{
+          padding: 70px 0;
+     }
+
+     .single-counter-item {
+          margin: 15px 0;
+          margin-left: 45px;
+     }
+     .portfolio-filter button {
+          margin-right: 5px;
+     }
+
+     .portfolio-filter button {
+          padding: 9px 15px;
+          font-size: 13px;
+     }
+
+     .single-brand-cell img {
+          width: 65%;
+     }
+
+     .footer-contact a {
+          display: block;
+          margin-bottom: 15px !important;
+     }
+   
+  }
+
+
+
+
+
+/* Small Devices */
+/* ########################
+########################### */
+
+@media only screen and (max-width:576px){
+ 
+     nav .span_3_of_12,nav .span_9_of_12{
+          width: 50%;
+     }
+
+     .menu-trigger i {
+          line-height: 45px;
+     }
+
+     .header-text-wrapper h1{
+          font-size: 30px;
+     }
+
+     .header-text-wrapper h1 span{
+          margin-bottom: 0;
+     }
+
+     .btn{
+          font-size: 12px;
+	padding:15px 30px;
+     }
+
+     .header-social-link{
+          padding: 40px 0;
+     }
+
+     .counter-section .span_1_of_4, .team-section .span_1_of_4 {
+          width: 100%;
+     }
+
+     .single-counter-item{
+          margin: 0;
+          width: 60%;
+          margin-left: 20%;
+          margin-bottom: 20px;
+     }
+
+     .portfolio-filter button{
+          margin-bottom: 20px;
+     }
+
+     .portfolio-section .section-title {
+          margin-bottom: 30px;
+     }
+
+     .grid .span_1_of_3 {
+          margin-left: 5%;
+          width: 90%;
+          max-width: 90%;
+          margin-bottom: 20px;
+     }
+
+     .single-review-item .description {
+          margin-top: 30px;
+          margin-bottom: 30px;
+          color: #fff;
+          line-height: 27px;
+     }
+
+     .single-brand-cell img {
+          width: 20%;
+          margin-bottom: 20px;
+     }
+
+     .about-btn {
+          
+          display: block;
+          text-align: center;
+          margin-right: 0;
+          margin-bottom: 20px;
+     }
+
+     .section-title h2{
+          font-size: 25px;
+     }
+  }
