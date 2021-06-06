@@ -1,10 +1,10 @@
-# Book Shop - online e-Book site
+# Obela Portfolio
 
 <br>
 
-<img src="https://github.com/iamsaif6/book-shop/blob/master/Screenshot%202021-06-06%20at%2010-35-51%20Book%20Shop.png" width="800px" />
+<img src="https://github.com/iamsaif6/obela-portfolio/blob/master/Screenshot%202021-06-06%20at%2011-33-31%20Violet%20Portfolio.png" width="800px" />
 
-> ## For live preview : [Click Here](https://iamsaif6.github.io/book-shop/ "Book shop")
+> ## For live preview : [Click Here](https://iamsaif6.github.io/obela-portfolio/ "Obela")
 
  <br>
 
